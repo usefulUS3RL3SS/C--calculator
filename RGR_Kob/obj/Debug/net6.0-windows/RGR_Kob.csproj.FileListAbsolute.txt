@@ -1,0 +1,16 @@
+D:\DEV\STP2\RGR_Kob\RGR_Kob\bin\Debug\net6.0-windows\RGR_Kob.exe
+D:\DEV\STP2\RGR_Kob\RGR_Kob\bin\Debug\net6.0-windows\RGR_Kob.deps.json
+D:\DEV\STP2\RGR_Kob\RGR_Kob\bin\Debug\net6.0-windows\RGR_Kob.runtimeconfig.json
+D:\DEV\STP2\RGR_Kob\RGR_Kob\bin\Debug\net6.0-windows\RGR_Kob.dll
+D:\DEV\STP2\RGR_Kob\RGR_Kob\bin\Debug\net6.0-windows\RGR_Kob.pdb
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\rgz.Form1.resources
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.csproj.GenerateResource.cache
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.AssemblyInfoInputs.cache
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.AssemblyInfo.cs
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.csproj.CoreCompileInputs.cache
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.dll
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\refint\RGR_Kob.dll
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.pdb
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\RGR_Kob.genruntimeconfig.cache
+D:\DEV\STP2\RGR_Kob\RGR_Kob\obj\Debug\net6.0-windows\ref\RGR_Kob.dll
